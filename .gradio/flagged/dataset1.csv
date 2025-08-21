@@ -1,2 +1,0 @@
-Age,"Sex (0=Female, 1=Male)",Chest Pain Type,Resting Blood Pressure,Cholesterol,Fasting Blood Sugar > 120 mg/dl,Resting ECG,Max Heart Rate,"Exercise Angina (0=No, 1=Yes)",Oldpeak,ST Slope,output,timestamp
-24,1,ASY,140,200,0,Normal,122,0,0,Flat,,2025-08-21 11:07:55.741331
