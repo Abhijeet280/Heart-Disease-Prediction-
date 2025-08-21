@@ -1,0 +1,2 @@
+Age,"Sex (0=Female, 1=Male)",Resting Blood Pressure,Cholesterol,"Fasting Blood Sugar (0=No, 1=Yes)",Max Heart Rate,"Exercise Angina (0=No, 1=Yes)",Oldpeak,ChestPainType_ATA,ChestPainType_NAP,ChestPainType_TA,RestingECG_Normal,RestingECG_ST,ST_Slope_Flat,ST_Slope_Up,output,timestamp
+22,1,120,200,1,144,0,0,1,0,0,0,1,0,1,💓 Heart Disease Detected,2025-08-21 11:14:21.325551
